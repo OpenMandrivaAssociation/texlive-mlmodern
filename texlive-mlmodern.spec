@@ -1,6 +1,6 @@
 Name:		texlive-mlmodern
 Version:	57458
-Release:	1
+Release:	2
 Summary:	A blacker Type 1 version of Computer Modern, with multilingual support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mlmodern
