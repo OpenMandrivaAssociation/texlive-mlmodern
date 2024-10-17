@@ -3,7 +3,7 @@ Version:	57458
 Release:	2
 Summary:	A blacker Type 1 version of Computer Modern, with multilingual support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mlmodern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mlmodern
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mlmodern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mlmodern.doc.r%{version}.tar.xz
